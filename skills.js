@@ -1,3 +1,3 @@
-function calculateNumberOfSkills() {
-  return document.querySelectorAll('.skill').length;
+function calculateNumbers(var1, var2) {
+    return var1 + var2;
 }
